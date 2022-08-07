@@ -1,16 +1,13 @@
 h1 {
-  color: brown;
+  color: black;
   text-align: center;
 }
 
-li  {
-  text-shadow: 0px;
-}
 p {
-  color: turquoise;
+  color: black;
   text-align: center;
 }
 
 body  {
-  background-color: green;
+  background-color: gainsboro;
 }
