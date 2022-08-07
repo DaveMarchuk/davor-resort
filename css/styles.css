@@ -3,8 +3,12 @@ h1 {
   text-align: center;
 }
 
+li  {
+  text-shadow: 0px;
+}
 p {
   color: turquoise;
+  text-align: center;
 }
 
 body  {
